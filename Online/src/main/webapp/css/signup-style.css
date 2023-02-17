@@ -1,0 +1,63 @@
+@charset "ISO-8859-1";
+*{
+	background: silver;
+	
+}
+
+#container
+{ 
+	width:700px;
+	position:absolute;
+left:50px;
+top:50px;
+	background:maroon;;
+	padding: 5px;
+	border-radius: 15px;
+}
+.topnav-sticky a{
+	background-color: blue;
+}
+.signup-texts{
+	position: absolute;
+	left: 850px;
+	top: 50px;
+	background-color:orange;
+	width: 50%;
+	border-radius: 15px;
+	
+}
+.signup-texts a{
+	position:relative;
+	color: blue;
+	left: 40%;
+	font-size: 35px;
+	top: 15px;
+	background-color: orange;
+}
+.signup-texts h1{
+	position:relative;
+	left: 28%;
+	width: 500px;
+	top: 30%;
+	font-size: 28px;
+	background-color: orange;
+}
+	
+	
+
+form{
+	position:relative;
+	
+	background:gray;
+	padding: 15px;
+	
+}
+
+form input{
+	
+	border-bottom-color:lime;	
+	padding: 5px;
+	align-content: space-around;
+
+}
+
